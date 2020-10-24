@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mbogi Genje",
+      "age": 30
+    },
+    {
+      "name": "Boutrouss",
+      "id": 2,
+      "age": 40
+    },
+    {
+      "id": 3,
+      "name": "Wakadinali",
+      "age": 25
+    }
+  ]
+}
